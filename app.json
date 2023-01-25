@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "slug": "stickersmash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37285d01-bce5-4a0f-8963-49121b7b499f"
+      }
+    },
+    "owner": "barel31"
   }
 }
